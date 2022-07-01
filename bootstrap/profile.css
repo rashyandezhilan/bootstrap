@@ -1,0 +1,37 @@
+
+.navbar{
+    position: sticky;
+}
+@media screen and (max-width:767px) {
+    .navbar
+{
+    max-width: 560px;
+    
+}
+.carousel
+{
+    max-width: 560px;
+}
+
+}
+.education
+{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+.contact{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-style: italic;
+    box-sizing: border-box;
+}
+#footer{
+    align-items: center;
+
+}
+.button{
+    margin-left:5px;
+}
+.collapse{
+    justify-content: space-around;
+}
